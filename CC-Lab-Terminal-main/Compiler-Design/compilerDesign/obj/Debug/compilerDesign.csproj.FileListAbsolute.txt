@@ -1,0 +1,10 @@
+C:\Users\saqlain\Desktop\CC-Lab-Terminal-main\Compiler-Design\compilerDesign\bin\Debug\compilerDesign.exe.config
+C:\Users\saqlain\Desktop\CC-Lab-Terminal-main\Compiler-Design\compilerDesign\bin\Debug\compilerDesign.exe
+C:\Users\saqlain\Desktop\CC-Lab-Terminal-main\Compiler-Design\compilerDesign\bin\Debug\compilerDesign.pdb
+C:\Users\saqlain\Desktop\CC-Lab-Terminal-main\Compiler-Design\compilerDesign\obj\Debug\compilerDesign.csproj.AssemblyReference.cache
+C:\Users\saqlain\Desktop\CC-Lab-Terminal-main\Compiler-Design\compilerDesign\obj\Debug\compilerDesign.Form1.resources
+C:\Users\saqlain\Desktop\CC-Lab-Terminal-main\Compiler-Design\compilerDesign\obj\Debug\compilerDesign.Properties.Resources.resources
+C:\Users\saqlain\Desktop\CC-Lab-Terminal-main\Compiler-Design\compilerDesign\obj\Debug\compilerDesign.csproj.GenerateResource.cache
+C:\Users\saqlain\Desktop\CC-Lab-Terminal-main\Compiler-Design\compilerDesign\obj\Debug\compilerDesign.csproj.CoreCompileInputs.cache
+C:\Users\saqlain\Desktop\CC-Lab-Terminal-main\Compiler-Design\compilerDesign\obj\Debug\compilerDesign.exe
+C:\Users\saqlain\Desktop\CC-Lab-Terminal-main\Compiler-Design\compilerDesign\obj\Debug\compilerDesign.pdb
